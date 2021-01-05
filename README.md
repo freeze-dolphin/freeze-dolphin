@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Third-Party Websites Quick Visit
-[<img src=https://www.herokucdn.com/favicons/favicon.ico height=16 weight=16 align="center">] [Heroku](www.heroku.com)
+[<img src=https://www.herokucdn.com/favicons/favicon.ico height=16 weight=16 align="center">] [Heroku](https://www.heroku.com/)
