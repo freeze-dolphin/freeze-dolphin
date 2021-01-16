@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 ### Third-party websites quick visit
 [<img src=https://www.herokucdn.com/favicons/favicon.ico height=16 weight=16 align=center>] [Heroku](https://www.heroku.com/)  
-[<img src=https://api.iowen.cn/favicon/www.iowen.cn.png height=16 weight=16 align=center>] [GitPod](https://www.gitpod.io/)
+[<img src=https://gitpod.io/images/gitpod-196x196.png height=16 weight=16 align=center>] [GitPod](https://www.gitpod.io/)  
+[<img src=https://mvnrepository.com/assets/images/favicon.ico height=16 weight=16 align=center>] [Maven Repository](https://mvnrepository.com/)
