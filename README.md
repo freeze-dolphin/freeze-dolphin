@@ -21,6 +21,34 @@ Here are some ideas to get you started:
 
 ### Third-party websites quick visit
 [<img src=https://www.herokucdn.com/favicons/favicon.ico height=16 weight=16 align=center>] [Heroku](https://www.heroku.com/)  
-[<img src=https://gitpod.io/images/gitpod-196x196.png height=16 weight=16 align=center>] [GitPod](https://www.gitpod.io/)  
-[<img src=https://mvnrepository.com/assets/images/favicon.ico height=16 weight=16 align=center>] [Maven Repository](https://mvnrepository.com/)
+[<img src=https://gitpod.io/images/gitpod-196x196.png height=16 weight=16 align=center>] [GitPod](https://www.gitpod.io/)
+
 -->
+
+### About Me
+
+<details>
+
+I've started programming since 2014, the reason for starting programming is that I just wanted to create my program and share them with my classmates and friends.
+
+I firstly learned `Scratch` as I was studying at primary school at that time and I couldn't understand complex codes. After several weeks' practicing, I thought I've truly mastered it and started programming my own games. However, I didn't share them with anyone for some reasons.
+
+Then I wanted to learn `Java` because I fell in love with `Minecraft` and I wanted to write a `mod` for it. But the configuration of `JDK` confused me and finally I went to learn `Batch` just because the building script of a simple project I saw was written in it. From this time I started programming in codes.
+
+After the graduation of the primary school, I wanted to pickup `Java`. Reading the tutorials of `Java` still puzzled me so I went to lookup tutorials for writing `spigot` plug-ins (which is known as the `minecraft` server plug-ins). Gradually I began to master it.
+
+Writing non-dependent `spigot` plug-ins was my original goal, but I realized that it could be very difficult to add 'new' items to `minecraft`, so I turned to programming `Slimefun` 3rd-party extensions and there have been some repositories of my projects that you can find on `github`.
+
+Now I decided to take up learning `Rust` since `Java` programs run very slowly due to its `JVM` mechanisms. Originally I wanted to learn `C++` or `CSharp` but they are still difficult for me since I don't have any teacher there for me. Then I found the language `Rust` which has many advantages of both `C++` and `CSharp`. Though it is said to be hard to learn, I still started learning it by watching videos.
+
+Python is my next goal, and I will learn it in my formal senior-high-school courses.
+
+</details>
+
+#### Language Mastering Status of Me: 
+
+| Language |       Status       |
+| :------: | :----------------: |
+|   Java   |    _Mastered!_     |
+|   Rust   |    Learning...     |
+|  Python  | Ready-for-learning |
