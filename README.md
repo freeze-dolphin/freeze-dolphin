@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### Dashboard for visitors
 [:package:] [Maven repository of me](https://github.com/freeze-dolphin/maven-repository)
 
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 [<img src=https://www.herokucdn.com/favicons/favicon.ico height=16 weight=16 align=center>] [Heroku](https://www.heroku.com/)  
 [<img src=https://gitpod.io/images/gitpod-196x196.png height=16 weight=16 align=center>] [GitPod](https://www.gitpod.io/)  
 [<img src=https://mvnrepository.com/assets/images/favicon.ico height=16 weight=16 align=center>] [Maven Repository](https://mvnrepository.com/)
+-->
