@@ -39,9 +39,9 @@ After the graduation of the primary school, I wanted to pickup `Java`. Reading t
 
 Writing non-dependent `spigot` plug-ins was my original goal, but I realized that it could be very difficult to add 'new' items to `minecraft`, so I turned to programming `Slimefun` 3rd-party extensions and there have been some repositories of my projects that you can find on `github`.
 
-Now I decided to take up learning `Rust` since `Java` programs run very slowly due to its `JVM` mechanisms. Originally I wanted to learn `C++` or `CSharp` but they are still difficult for me since I don't have any teacher there for me. Then I found the language `Rust` which has many advantages of both `C++` and `CSharp`. Though it is said to be hard to learn, I still started learning it by watching videos.
+Now I decided to take up learning `Rust` since `Java` programs run very slowly due to its `JVM` mechanisms. Originally I wanted to learn `C++` or `CSharp` but they are still difficult for me since I don't have any teacher there for me. Then I found the language `Rust` which has many advantages of both `C++` and `CSharp`. Though it is said to be hard to learn, I still started learning it by watching tutorial videos.
 
-Python is my next goal, and I will learn it in my formal senior-high-school courses.
+`Python` is my next goal, and I will learn it in my formal senior-high-school courses.
 
 </details>
 
