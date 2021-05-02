@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 
 -->
 
+### Commit Email Address
+```
+40729044+freeze-dolphin@users.noreply.github.com
+```
+
 ### About Me
 
 <details>
