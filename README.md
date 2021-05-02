@@ -26,8 +26,17 @@ Here are some ideas to get you started:
 -->
 
 ### Commit Email Address
-```
+
+`
 40729044+freeze-dolphin@users.noreply.github.com
+`
+
+```
+git config user.email "40729044+freeze-dolphin@users.noreply.github.com"
+```
+
+```
+git config --global user.email "40729044+freeze-dolphin@users.noreply.github.com"
 ```
 
 ### About Me
