@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 40729044+freeze-dolphin@users.noreply.github.com
 `
 
+<details>
+  <summary>Git Commands</summary>
+
 ```
 git config user.email "40729044+freeze-dolphin@users.noreply.github.com"
 ```
@@ -39,9 +42,12 @@ git config user.email "40729044+freeze-dolphin@users.noreply.github.com"
 git config --global user.email "40729044+freeze-dolphin@users.noreply.github.com"
 ```
 
+</details>
+
 ### About Me
 
 <details>
+  <summary>My Programming History</summary>
 
 I've started programming since 2014, the reason for starting programming is that I just wanted to create my program and share them with my classmates and friends.
 
