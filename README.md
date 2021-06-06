@@ -44,6 +44,8 @@ git config --global user.email "40729044+freeze-dolphin@users.noreply.github.com
 
 </details>
 
+<!--
+
 ### About Me
 
 <details>
@@ -64,6 +66,8 @@ Now I decided to take up learning `Rust` since `Java` programs run very slowly d
 `Python` is my next goal, and I will learn it in my formal senior-high-school courses.
 
 </details>
+
+-->
 
 #### Language Mastering Status of Me: 
 
