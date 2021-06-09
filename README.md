@@ -73,6 +73,6 @@ Now I decided to take up learning `Rust` since `Java` programs run very slowly d
 
 | Language |       Status       |
 | :------: | :----------------: |
-|   Java   |    _Mastered!_     |
+|   Java   |    Able to use     |
 |   Rust   |    Learning...     |
-|  Python  | Ready-for-learning |
+|  Python  | Ready for learning |
