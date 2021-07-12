@@ -68,11 +68,3 @@ Now I decided to take up learning `Rust` since `Java` programs run very slowly d
 </details>
 
 -->
-
-#### Language Mastering Status of Me: 
-
-| Language |       Status       |
-| :------: | :----------------: |
-|   Java   |    Able to use     |
-|   Rust   |    Learning...     |
-|  Python  | Ready for learning |
