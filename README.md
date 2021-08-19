@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freeze-dolphin&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freeze-dolphin&hide_border=true&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=compact&hide_border=true&show_icons=true&card_width=445&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Commit Email Address
 
