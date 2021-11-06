@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Statistics & Assessment
+## Statistics & Assessments
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freeze-dolphin&hide_border=true&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -85,7 +85,26 @@ Now I decided to take up learning `Rust` since `Java` programs run very slowly d
 
 ## Contact
 
-```scala
-> Me.getQQ.getId
-1279340104
+```clojure
+(defn get-qq-id [name] 
+  (cond
+    (= name "freeze-dolphin") "1279340104"
+    :else nil
+  )
+)
+
+
+(defn get-answer-to-the-qq-verifing-question [name] 
+  (cond
+    (= name "freeze-dolphin") "IllegalException"
+    :else nil
+  )
+)
+
+user=> (get-qq-id "freeze-dolphin")
+"1279340104"
+
+user=> (get-answer-to-the-qq-verifing-question "freeze-dolphin")
+"IllegalException"
+
 ```
