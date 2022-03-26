@@ -83,6 +83,7 @@ Now I decided to take up learning `Rust` since `Java` programs run very slowly d
 
 -->
 
+<!--
 ## Contact
 
 ```clojure
@@ -108,3 +109,4 @@ user=> (get-answer-to-the-qq-verifing-question "freeze-dolphin")
 "IllegalException"
 
 ```
+-->
