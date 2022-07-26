@@ -25,18 +25,27 @@ Here are some ideas to get you started:
 
 -->
 
+<span align="center">
+
 ## Statistics & Assessments
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freeze-dolphin&hide_border=true&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freeze-dolphin&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=compact&hide_border=true&show_icons=true&card_width=445&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=freeze-dolphin&hide_border=true&show_icons=true&count_private=true&theme=tokyonight" /></a>
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=compact&hide_border=true&show_icons=true&card_width=445&theme=tokyonight" /></a>
+
+</span>
+
+<!--
 ## Commit Email Address
 
 `
@@ -57,6 +66,7 @@ git config --global user.email "40729044+freeze-dolphin@users.noreply.github.com
 ```
 
 </details>
+-->
 
 <!--
 
