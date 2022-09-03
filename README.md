@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=freeze-dolphin&hide_border=true&show_icons=true&count_private=true&theme=tokyonight" /></a>
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=compact&hide_border=true&show_icons=true&card_width=890&theme=tokyonight" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=compact&hide_border=true&show_icons=true&card_width=445&theme=tokyonight" /></a>
 
 </span>
 
