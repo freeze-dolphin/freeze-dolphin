@@ -1,7 +1,8 @@
 ## About
 
 - :vulcan_salute: Hi, I'm @freeze-dolphin
-- <a href="https://voidlinux.org"><img align="buttom" src="https://voidlinux.org/assets/img/favicon.png" width="16px" height="16px" /></a> I'm a Linux enthusiast, and I'm using `voidlinux` as primary operating system
+- <img align="buttom" src="https://voidlinux.org/assets/img/favicon.png" width="16px" height="16px" /> I'm a Linux enthusiast, and I'm using <a href="https://voidlinux.org">`voidlinux`</a> as primary operating system
+- <img align="buttom" src="https://develop.spacemacs.org/img/logo.svg" width="16px" height="16px" /> Using <a href="https://develop.spacemacs.org/">`Spacemacs`</a> as primary editor.
 - :small_blue_diamond: I keep a <a href="https://github.com/freeze-dolphin/dotfiles">`dotfiles` repository</a>
 - <a href="https://papermc.io"><img align="buttom" src="https://papermc.io/favicons/favicon-16x16.png?v=BG70oBaPzN" width="16px" height="16px" /></a> I 'm a minecraft lover, also a `paperspigot` plugin developer
 
