@@ -6,6 +6,7 @@
 - <img align="buttom" src="https://neovim.io/favicon.ico" width="16px" height="16px" /> Using <a href="https://neovim.io/">`neovim`</a> as primary editor.
 - :small_blue_diamond: I keep a <a href="https://github.com/freeze-dolphin/dotfiles">`dotfiles` repository</a>
 - <a href="https://papermc.io"><img align="buttom" src="https://papermc.io/favicons/favicon-16x16.png?v=BG70oBaPzN" width="16px" height="16px" /></a> I 'm a minecraft lover, also a <a href="https://papermc.io">`paperspigot`</a> plugin developer
+- <a href="https://www.nordtheme.com"><img align="buttom" src="https://www.nordtheme.com/icons/icon-48x48.png" width="16px" height="16px" /></a> I prefer <a href="https://www.nordtheme.com/">`Nord`</a> color palette
 
 ## Statistics & Assessments
 
