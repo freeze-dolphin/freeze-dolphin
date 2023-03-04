@@ -2,16 +2,14 @@
 ## About
 
 - :vulcan_salute: Hi, I'm <a href="https://github.com/freeze-dolphin">@freeze-dolphin</a>
-- <img align="buttom" src="https://manjaro.org/favicon.ico" width="16px" height="16px" /> I'm a Linux enthusiast, and I'm using <a href="https://manjaro.org">`manjaro`</a> as primary operating system
-- <img align="buttom" src="https://neovim.io/favicon.ico" width="16px" height="16px" /> Using <a href="https://neovim.io/">`neovim`</a> as primary editor.
-- :small_blue_diamond: I keep a <a href="https://github.com/freeze-dolphin/dotfiles">`dotfiles` repository</a>
+- <img align="buttom" src="https://www.freebsd.org/favicon.ico" width="16px" height="16px" /> I'm a Unix enthusiast, and I'm using <a href="https://www.freebsd.org">`FreeBSD`</a> as primary operating system
+- <img align="buttom" src="https://code.visualstudio.com/favicon.ico" width="16px" height="16px" /> Using <a href="https://code.visualstudio.com/">`VSCode`</a> as primary editor.
 - <a href="https://papermc.io"><img align="buttom" src="https://papermc.io/favicons/favicon-16x16.png?v=BG70oBaPzN" width="16px" height="16px" /></a> I 'm a minecraft lover, also a <a href="https://papermc.io">`paperspigot`</a> plugin developer
-- <a href="https://www.nordtheme.com"><img align="buttom" src="https://www.nordtheme.com/icons/icon-48x48.png" width="16px" height="16px" /></a> I prefer <a href="https://www.nordtheme.com/">`Nord`</a> color palette
 
 ## Statistics & Assessments
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=freeze-dolphin&theme=nord&&margin-w=12&column=7&no-frame=true" alt="Trophies" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=freeze-dolphin&theme=nord&&margin-w=12&no-frame=true&row=1&column=5" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -29,7 +27,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,java,scala,lua,py" />
+    <img src="https://skillicons.dev/icons?i=bash,rust,java,scala,lua,py" />
   </a>
 </p>
 
