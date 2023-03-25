@@ -1,10 +1,8 @@
 
 ## About
 
-- :vulcan_salute: Hi, I'm <a href="https://github.com/freeze-dolphin">@freeze-dolphin</a>
-- <img align="buttom" src="https://www.freebsd.org/favicon.ico" width="16px" height="16px" /> I'm a Unix enthusiast, and I'm using <a href="https://www.freebsd.org">`FreeBSD`</a> as primary operating system
-- <img align="buttom" src="https://code.visualstudio.com/favicon.ico" width="16px" height="16px" /> Using <a href="https://code.visualstudio.com/">`VSCode`</a> as primary editor.
-- <a href="https://papermc.io"><img align="buttom" src="https://papermc.io/favicons/favicon-16x16.png?v=BG70oBaPzN" width="16px" height="16px" /></a> I 'm a minecraft lover, also a <a href="https://papermc.io">`paperspigot`</a> plugin developer
+An error occurred while reading the profile!  
+If you see this, please contact at https://github.com/orgs/community/discussions
 
 ## Statistics & Assessments
 
