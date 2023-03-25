@@ -20,12 +20,12 @@ If you see this, please contact at https://github.com/orgs/community/discussions
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,emacs,gradle,idea,linux,regex" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,emacs,linux,regex" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,rust,java,scala,lua,py" />
+    <img src="https://skillicons.dev/icons?i=java,clojure,rust,scala,py" />
   </a>
 </p>
 
