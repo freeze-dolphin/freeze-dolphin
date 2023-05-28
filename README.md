@@ -19,14 +19,37 @@ If you see this, please contact at https://github.com/orgs/community/discussions
 ## Skillicons
 
 <p align="center">
-  <a href="https://skillicons.dev">
+<table border="0" align ="center">
+  <tbody>
+    <tr>
+      <th>Utilities & IDEs</th>
+    </tr>
+    <tr>
+      <td><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,emacs,linux,regex" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,clojure,rust,scala,py" />
-  </a>
+  </a></td>
+    </tr>
+    <tr>
+      <th>Primary Languages</th>
+    </tr>
+    <tr>
+      <td><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,clojure,kotlin,rust,scala" />
+  </a></td>
+    </tr>
+    <tr>
+      <th>Secondary Languages</th>
+    </tr>
+    <tr>
+      <td><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,crystal,py,c,cs" />
+  </a></td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+  </colgroup>
+</table>
 </p>
 
 <p align="right">
