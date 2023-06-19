@@ -1,9 +1,4 @@
 
-## About
-
-An error occurred while reading the profile!  
-If you see this, please contact at https://github.com/orgs/community/discussions
-
 ## Statistics & Assessments
 <!--
 <p align="center">
