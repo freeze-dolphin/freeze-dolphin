@@ -14,43 +14,5 @@
 </p>
 
 ## Skillicons
-
-<p align="center">
-<table border="0" align ="center">
-  <tbody>
-    <tr>
-      <th>Utilities & IDEs</th>
-    </tr>
-    <tr>
-      <td><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,emacs,linux,regex" />
-  </a></td>
-    </tr>
-    <tr>
-      <th>Primary Languages</th>
-    </tr>
-    <tr>
-      <td><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,clojure,kotlin,rust,scala" />
-  </a></td>
-    </tr>
-    <tr>
-      <th>Secondary Languages</th>
-    </tr>
-    <tr>
-      <td><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,crystal,py,c,cs" />
-  </a></td>
-    </tr>
-  </tbody>
-  <colgroup>
-    <col>
-  </colgroup>
-</table>
-</p>
-
-<p align="right">
-<a href="https://github.com/anuraghazra/github-readme-stats"></a>
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats"></a>
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,emacs,linux,regex" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,clojure,kotlin,rust,scala,ruby,crystal,py" /></p>
