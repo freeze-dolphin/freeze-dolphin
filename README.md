@@ -29,3 +29,9 @@ No activity tracked
 ## Skillicons
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,emacs,linux,regex" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=java,clojure,kotlin,rust,bash,py,crystal" /></p>
+
+## Netease Music
+<p align="center">
+<!-- netease-music-box start -->
+<!-- netease-music-box end -->
+</p>
