@@ -10,7 +10,7 @@
 <br />
 -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=compact&hide_border=true&show_icons=true&card_width=445&theme=nord" />
+<img src="https://sapphira-github-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=compact&hide_border=true&show_icons=true&card_width=445&theme=nord" />
 </p>
 
 ## Skillicons
