@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         env:
-          INPUT_BLOCKS: ⣀⣀⣦⣿
-          INPUT_LANG_COUNT: 8
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          LANG_COUNT: 8
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # following flags are required, only if this is not on
