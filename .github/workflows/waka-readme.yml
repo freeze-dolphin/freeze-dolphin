@@ -19,3 +19,5 @@ jobs:
           REPOSITORY: freeze-dolphin/freeze-dolphin
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 8
+          TIME_RANGE: last_7_days
+          SHOW_TOTAL: true
