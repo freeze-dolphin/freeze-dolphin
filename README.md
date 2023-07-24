@@ -20,7 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             11 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
+Markdown         10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+Kotlin           10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+Properties       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Gradle           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 ```
 
 <!--END_SECTION:waka-->
