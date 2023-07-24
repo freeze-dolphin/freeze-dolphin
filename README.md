@@ -13,9 +13,11 @@
 </p>
 -->
 
+<!--
 <p align="center">
 <img src="https://wakatime.com/badge/user/ea4eb8bb-69d7-475b-864f-376a4366c722.svg?style=flat-square" />
 </p>
+-->
 
 <!--START_SECTION:waka-->
 
