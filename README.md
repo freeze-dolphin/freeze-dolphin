@@ -1,3 +1,6 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=donut-vertical&theme=nord" align="right" />
+
+
 ## Motto
 
 >
@@ -24,6 +27,8 @@
 </p>
 -->
 
+<p align="left">
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -41,6 +46,7 @@ Properties          14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+</p>
 
 ## Skillicons
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,emacs,linux,regex" /></p>
