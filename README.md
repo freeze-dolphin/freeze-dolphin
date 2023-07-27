@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=donut-vertical&theme=nord" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=donut-vertical&theme=nord&hide_border=true" align="right" />
 
 
 ## Motto
