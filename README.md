@@ -1,3 +1,8 @@
+## Motto
+
+>
+> Those who fell into the pit of chaos-like Java will gradually turn into a mixture of Java and Kotlin and then finalize with pure Kotlin.
+>
 
 ## Wakatime
 <!--
