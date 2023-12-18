@@ -32,12 +32,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 45 mins
+Total Time: 0 secs
 
-Clojure   54 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.45 %
-YAML      28 mins         ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.45 %
-Java      22 mins         ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.59 %
-Other     9 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
