@@ -1,12 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=donut-vertical&theme=nord&hide_border=true" align="right" />
 
-
-## Motto
-
->
-> Those who fell into the pit of chaos-like Java will gradually turn into a mixture of Java and Kotlin and then finalize with pure Kotlin.
->
-
 ## Wakatime
 <!--
 <p align="center">
