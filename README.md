@@ -1,4 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=donut-vertical&theme=nord&hide_border=true" align="right" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=donut-vertical&theme=nord&hide_border=true" align="right" />
+</div>
 
 ## Wakatime
 <!--
@@ -20,7 +22,7 @@
 </p>
 -->
 
-<p align="left">
+<div align="left">
 
 <!--START_SECTION:waka-->
 
@@ -39,14 +41,19 @@ Csproj      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-</p>
+<br>
 
+<div align="center">
+  
+  ![:freeze-dolphin](https://count.getloli.com/get/@freeze-dolphin?theme=moebooru)
 
+</div>
 
+</div>
 
-　
+<br>
 
-　
 ## Skillicons
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,emacs,linux,regex" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=java,clojure,kotlin,c,bash,py,lua" /></p>
+
