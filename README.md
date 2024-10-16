@@ -29,8 +29,7 @@
 ```txt
 Total Time: 0 secs
 
-Other   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   97.19 %
-Java    0 secs          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
