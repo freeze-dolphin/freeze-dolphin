@@ -27,11 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 50 mins
+Total Time: 0 secs
 
-JSON    28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   51.72 %
-TOML    21 mins         ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.06 %
-Other   4 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
