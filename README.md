@@ -29,7 +29,7 @@
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+VBScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
