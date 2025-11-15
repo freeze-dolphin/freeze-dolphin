@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=donut-vertical&theme=nord&hide_border=true" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeze-dolphin&layout=donut-vertical&theme=nord&hide_border=true&hide=shell&langs_count=8" align="right" />
 </div>
 
 ## Wakatime
