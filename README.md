@@ -48,5 +48,5 @@ No activity tracked
 
 ## Skillicons
 <p align="center"><img src="https://skillicons.dev/icons?i=emacs,vscode,idea,rider,linux,regex,githubactions" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,c,cs,java,clojure,kotlin,bash,py,lua,unity" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,c,cs,java,clojure,kotlin,bash,py,unity" /></p>
 
