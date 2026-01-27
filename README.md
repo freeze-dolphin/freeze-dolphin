@@ -51,6 +51,11 @@ YAML                12 mins         ▒░░░░░░░░░░░░░�
 <br>
 
 ## Skillicons
+<!--
 <p align="center"><img src="https://skillicons.dev/icons?i=emacs,vscode,idea,rider,linux,regex,githubactions" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=dotnet,c,cs,java,clojure,kotlin,bash,py,unity" /></p>
+-->
+
+<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,intellijidea,rider,linux,freebsd,regex,githubactions,graphql"/></p>
+<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=dotnet,c,csharp,fsharp,java,clojure,kotlin,kotlinmultiplatform,python,papermc,unity" /></p>
 
