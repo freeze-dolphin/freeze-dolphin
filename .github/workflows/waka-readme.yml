@@ -17,7 +17,5 @@ jobs:
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: freeze-dolphin/freeze-dolphin
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          LANG_COUNT: 8
           TIME_RANGE: last_7_days
           SHOW_TOTAL: true
