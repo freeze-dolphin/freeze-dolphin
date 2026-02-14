@@ -27,13 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 29 mins
+Total Time: 0 secs
 
-C#                  4 hrs 21 mins   ████████████████████████▒   97.29 %
-GraphQL             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Csproj              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Config              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-XML                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
