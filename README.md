@@ -27,9 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 35 mins
 
-No activity tracked
+Kotlin            2 hrs 25 mins   ███████████████████████▒░   93.37 %
+Java Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Properties        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Markdown          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+YAML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
