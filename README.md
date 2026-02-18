@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 35 mins
+Total Time: 7 hrs 2 mins
 
-Kotlin            2 hrs 25 mins   ███████████████████████▒░   93.37 %
-Java Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Properties        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Markdown          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-YAML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Kotlin                  5 hrs 5 mins          ██████████████████░░░░░░░   72.23 %
+Markdown                48 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+YAML                    44 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Java Properties         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Properties              10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
