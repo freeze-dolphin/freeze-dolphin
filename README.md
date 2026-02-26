@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 46 mins
+Total Time: 14 hrs 23 mins
 
-Kotlin                  6 hrs 16 mins         ██████████████████░░░░░░░   71.46 %
-C#                      2 hrs 20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
-Properties              3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-HTML                    2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Markdown                1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+C#                      6 hrs 56 mins         ████████████░░░░░░░░░░░░░   48.20 %
+Kotlin                  6 hrs 19 mins         ███████████░░░░░░░░░░░░░░   43.98 %
+HTTP Request            36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+JSON                    16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Properties              3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
