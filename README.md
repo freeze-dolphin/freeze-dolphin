@@ -27,13 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 51 mins
+Total Time: 0 secs
 
-C#        1 hr 32 mins          ████████████████████▓░░░░   83.19 %
-JSON      14 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-F#        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-HTML      1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Bash      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
