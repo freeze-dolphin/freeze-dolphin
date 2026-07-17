@@ -29,7 +29,8 @@
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Flexible Julia   0 secs                ████████████████████████▓   99.18 %
+Julia            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
