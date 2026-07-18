@@ -27,10 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 33 mins
 
-Flexible Julia   0 secs                ████████████████████████▓   99.18 %
-Julia            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Java              21 mins               ████████████████░░░░░░░░░   64.10 %
+Gradle            11 mins               ████████▓░░░░░░░░░░░░░░░░   35.14 %
+Shell Script      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Flexible Julia    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
