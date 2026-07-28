@@ -52,7 +52,7 @@ F#                  3 mins                ▒░░░░░░░░░░░�
 
 <h2>Skillicons</h2> 
 <div align="right">
-  <i><small>powered by <a href="https://builder.syvixor.com/">syvixor</a></small></i>
+  <i><small><sup>powered by <a href="https://builder.syvixor.com/">syvixor</a></sup></small></i>
 </div>
 <!--
 <p align="center"><img src="https://skillicons.dev/icons?i=emacs,vscode,idea,rider,linux,regex,githubactions" /></p>
