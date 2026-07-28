@@ -50,12 +50,16 @@ F#                  3 mins                ▒░░░░░░░░░░░�
 
 <br>
 
-## Skillicons
+<h2>Skillicons</h2> 
+<div align="right">
+  <i><small>powered by <a href="https://builder.syvixor.com/">syvixor</a></small></i>
+</div>
 <!--
 <p align="center"><img src="https://skillicons.dev/icons?i=emacs,vscode,idea,rider,linux,regex,githubactions" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=dotnet,c,cs,java,clojure,kotlin,bash,py,unity" /></p>
 -->
 
-<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,intellijidea,rider,linux,freebsd,regex,githubactions,graphql"/></p>
-<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=dotnet,c,csharp,fsharp,java,clojure,kotlin,kotlinmultiplatform,python,papermc,unity" /></p>
+<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=adobepremierepro,adobeaudition,adobeindesign,adobephotoshop,blender,autocad,gimp,inkscape"/></p>
+<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=zed,visualstudiocode,intellijidea,rider,linux,gentoo,regex,graphql,docker,ida"/></p>
+<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=dotnet,c,csharp,fsharp,scala,clojure,kotlin,kotlinmultiplatform,ktor,python,papermc,unity" /></p>
 
