@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 43 mins
+Total Time: 5 hrs 12 mins
 
-Kotlin              44 mins               ██████████▓░░░░░░░░░░░░░░   43.27 %
-GitIgnore file      19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
-C#                  18 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-Markdown            11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-XML Solution File   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+C#                  3 hrs 19 mins         ████████████████░░░░░░░░░   63.88 %
+Kotlin              56 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
+GitIgnore file      19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Markdown            11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+JSON                6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
