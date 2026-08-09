@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 15 mins
+Total Time: 14 hrs 3 mins
 
-C#                      9 hrs 56 mins         ████████████████████▒░░░░   81.10 %
-ANTLR v4 grammar file   39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Kotlin                  26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Makefile                21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Markdown                13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+C#                        9 hrs 44 mins         █████████████████▒░░░░░░░   69.22 %
+C++                       41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+ANTLR v4 grammar file     39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Markdown                  33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Kotlin                    26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
