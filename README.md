@@ -2,9 +2,12 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=freeze_dolphin&card_width=500&layout=compact&langs_count=6&theme=nord" />
+  <!--
+    <br />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=freeze-dolphin&card_width=500&layout=compact&langs_count=6&theme=nord" />
+  -->
   <br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=freeze-dolphin&card_width=500&layout=compact&langs_count=6&theme=nord" />
-  <br /><br />
+  <br />
   <img src="https://count.getloli.com/get/@freeze-dolphin?theme=moebooru" />
   <br />
 </div>
