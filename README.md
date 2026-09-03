@@ -21,7 +21,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=dotnet,c,cs,java,clojure,kotlin,bash,py,unity" /></p>
 -->
 
-<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=adobeaudition,adobeindesign,adobephotoshop,blender,autocad,gimp,inkscape"/></p>
-<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=zed,visualstudiocode,intellijidea,rider,linux,gentoo,regex,graphql,docker"/></p>
-<p align="center"><img src="https://skills.syvixor.com/api/icons?perline=15&i=dotnet,c,csharp,fsharp,clojure,kotlin,kotlinmultiplatform,ktor,python,papermc,unity" /></p>
+<p align="center"><img height=72 src="https://skills.syvixor.com/api/icons?perline=15&i=adobeaudition,adobeindesign,adobephotoshop,blender,autocad,gimp,inkscape"/></p>
+<p align="center"><img height=72 src="https://skills.syvixor.com/api/icons?perline=15&i=zed,visualstudiocode,intellijidea,rider,linux,gentoo,regex,graphql,docker"/></p>
+<p align="center"><img height=72 src="https://skills.syvixor.com/api/icons?perline=15&i=dotnet,c,csharp,fsharp,clojure,kotlin,kotlinmultiplatform,ktor,python,papermc,unity" /></p>
 
