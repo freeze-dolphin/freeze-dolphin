@@ -1,7 +1,7 @@
 <h2>Statistics</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=freeze_dolphin&card_width=500&layout=compact&langs_count=6&theme=nord" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=freeze_dolphin&card_width=500&layout=compact&langs_count=6&theme=dark_github" />
   <!--
     <br />
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=freeze-dolphin&card_width=500&layout=compact&langs_count=6&theme=nord" />
